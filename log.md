@@ -5,7 +5,7 @@
 **Day 5 Progress**: <br>
 
     - Discovered CodePen, thanks to this challenge.<br>
-    - Watched a bunch of videos about code related things (which I am counting because sitting through a video is harder for me than working through code challenges).<br>
+    - Watched a few videos about code related things (which I am counting because sitting through a video is harder for me than working through code challenges).<br>
 
 **Thoughts:** There's so much to learn!<br>
 
@@ -20,6 +20,7 @@
     - Completed 13 challenges, including the *Applied Visual Design* section.<br>
     - Found [100 Days of code](https://www.100daysofcode.com/).<br>
     - Made this [github account](https://github.com/Grttyjwnchzstk/100-days-of-code).<br>
+    - Completed Day 4 of 21 Day CK Challenge.<br>
 
 **Thoughts:** There's so much to learn!<br>
 
@@ -33,9 +34,11 @@
 **3 Days Progress**: <br>
     Day 1: Signed up for [freeCodeCamp](https://freecodecamp.org/). Working through the Responsive Web Design Certification. <br>
            Completed 8 challenges. <br>
-           Began Day 1 of [21 Day Career Karma Challenge](https://careerkarma.com/21-day-ck-challenge)<br>
+           Began Day 1 of [21 Day Career Karma Challenge].(https://careerkarma.com/21-day-ck-challenge)<br>
     Day 2: Completed 53 challenges, including the *Basic HTML and HTML 5* section.<br>
+	   Completed Day 2 of 21 Day CK Challenge.<br>
     Day 3: Completed 51 challenges, including the *Basic CSS* section.<br>
+	   Completed Day 3 of 21 Day CK Challenge.<br>
 
 **Thoughts:** So far, so good. <br>
 
