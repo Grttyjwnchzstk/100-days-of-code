@@ -7,7 +7,7 @@
 **Day 6 Progress**: <br>
 - Learned a little more about how to format text in this very log!
 
-**Thoughts:** It's going to take a long time just to find my rhythm. I think I'm going to just try my best to focus on completing FCC's Responsive Web Certification and App Academy's Full Stack Prep Course. <br>
+**Thoughts:** It's going to take a long time just to find my rhythm. I think I'm going to just try my best to focus on completing FCC's Responsive Web Certification and App Academy's Full Stack Prep Course. I just want to get out of this beginner phase.<br>
 
 **Link(s) to work**<br>
 1. [freeCodeCamp Profile](https://www.freecodecamp.org/grttyjwnchzstk)
@@ -52,7 +52,7 @@
 Day 1:	
 - Signed up for [freeCodeCamp](https://freecodecamp.org/). Working through the Responsive Web Design Certification. <br>
 - Completed 8 challenges.
-- Began Day 1 of [21 Day Career Karma Challenge].(https://careerkarma.com/21-day-ck-challenge)<br>
+- Began Day 1 of [21 Day Career Karma Challenge](https://careerkarma.com/21-day-ck-challenge)<br>
 
 Day 2:	
 - FCC: Completed 53 challenges, including the *Basic HTML and HTML 5* section.<br>
