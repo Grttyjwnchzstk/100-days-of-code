@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-<!--
+### Day 10: August 9, 2020 <br>
+
+**Day 10 Progress**: <br>
+- Finding it real hard to stick to just one thing.. spent a few days trying to just learn html/css but there are so many resources out there! And I keep making really ugly html pages which is not encouraging. So now, it's html/css/javascript. Also, I didn't realize codecademy's paywall goes up right before you even get to css so i still haven't been able to decide on what program I'm going to learn html/css from (again, so many resources)!
+
+- Also, I'm coding every day but not necessarily going to log it every day. I'm saving most of what I do to this github account so it's a little redundant.
+
+**Link(s) to work**<br>
+1. [twitter](https://twitter.com/grttyjwnchzstk)
 
 ### Day 6: August 5, 2020 <br>
 
@@ -11,8 +19,6 @@
 
 **Link(s) to work**<br>
 1. [freeCodeCamp Profile](https://www.freecodecamp.org/grttyjwnchzstk)
-
--->
 
 ### Day 5: August 4, 2020 <br>
 
